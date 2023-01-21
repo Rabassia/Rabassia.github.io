@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  h2 {
+    color: blue;
+    text-align: left;
+    margin: 50px;
+  }
+  p {
+    color: black;
+    border: 2px solid powderblue;
+    margin: 50px;
+  }
